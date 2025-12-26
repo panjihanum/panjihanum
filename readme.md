@@ -198,8 +198,7 @@ Enhancement of financing features across web and mobile platforms.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=panjihanum&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panjihanum&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://githubcard.com/panjihanum.svg" height="160" />
 </p>
 
 
